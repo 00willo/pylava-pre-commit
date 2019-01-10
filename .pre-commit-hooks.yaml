@@ -1,0 +1,7 @@
+-   id: pylava
+    name: pylava
+    description: Run pylava across your python files.
+    entry: pylava
+    language: python
+    language_version: python3
+    types: ["python"]
